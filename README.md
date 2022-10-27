@@ -28,3 +28,12 @@ This is my first sem project . This is basically a platform developed using C la
 ## When 1st user added his product and then new user registered and can see the product by choosing the 2nd option
 
 ![INTro](./drawable/sc8.png)
+
+<br/>
+<br/>
+
+
+### You can download the windows executable file from [HERE](./output/phone_reseller.exe)
+<br/>
+
+#### In future  i am looking forward to update and upgrade this project !!
