@@ -1,8 +1,12 @@
 # Resell-Old-Mobile-phones
-This is my first sem project . This is basically a platform developed using C language to resell and buy old refurnished mobile phones .  
-
+  💎 This is my first sem project . This is basically a platform developed using C language to resell and buy old refurnished mobile phones . 
+  <br/>
+### You can download the windows executable file from [HERE](./output/phone_reseller.exe)
+<br/>
 ##Welcome Screen -> Prompts user to login using Name and Mobile number
+
 ![INTro](./drawable/sc1.png)
+
 <br/>
 ## After login user  is provided with  3 options 
 ### 1 -> to add  new Product to sell 
@@ -33,7 +37,7 @@ This is my first sem project . This is basically a platform developed using C la
 <br/>
 
 
-### You can download the windows executable file from [HERE](./output/phone_reseller.exe)
+
 <br/>
 
-#### In future  i am looking forward to update and upgrade this project !!
+#### 🎈 In future  i am looking forward to update and upgrade this project !!
